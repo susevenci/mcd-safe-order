@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "warning": "本文件是【离线演示用示例快照】，数值为常见参考区间的人工整理示例，不是麦当劳官方实时数据。真实数据请配置 MCD_MCP_TOKEN 后由 list-nutrition-foods 实时拉取。",
+    "unit": "能量 kcal；蛋白质/脂肪/碳水/糖 g；钠/钙 mg",
+    "scope": "每份（单品）"
+  },
+  "list": [
+    {"foodName": "巨无霸", "energy (kcal)": 550, "protein (g)": 25.9, "fat (g)": 30, "carbohydrate (g)": 43, "sugar (g)": 9, "sodium (mg)": 1020, "calcium (mg)": 250},
+    {"foodName": "双层吉士汉堡", "energy (kcal)": 440, "protein (g)": 25, "fat (g)": 23, "carbohydrate (g)": 36, "sugar (g)": 8, "sodium (mg)": 1100, "calcium (mg)": 260},
+    {"foodName": "麦香鸡", "energy (kcal)": 360, "protein (g)": 15, "fat (g)": 19, "carbohydrate (g)": 33, "sugar (g)": 6, "sodium (mg)": 720, "calcium (mg)": 120},
+    {"foodName": "麦香鱼", "energy (kcal)": 340, "protein (g)": 15, "fat (g)": 16, "carbohydrate (g)": 36, "sugar (g)": 6, "sodium (mg)": 620, "calcium (mg)": 120},
+    {"foodName": "板烧鸡腿堡", "energy (kcal)": 404, "protein (g)": 24, "fat (g)": 20, "carbohydrate (g)": 36, "sugar (g)": 7, "sodium (mg)": 900, "calcium (mg)": 150},
+    {"foodName": "麦辣鸡腿堡", "energy (kcal)": 480, "protein (g)": 22, "fat (g)": 26, "carbohydrate (g)": 42, "sugar (g)": 7, "sodium (mg)": 1050, "calcium (mg)": 120},
+    {"foodName": "吉士蛋麦满分", "energy (kcal)": 300, "protein (g)": 17, "fat (g)": 12, "carbohydrate (g)": 33, "sugar (g)": 5, "sodium (mg)": 720, "calcium (mg)": 200},
+    {"foodName": "猪柳蛋麦满分", "energy (kcal)": 390, "protein (g)": 20, "fat (g)": 20, "carbohydrate (g)": 33, "sugar (g)": 5, "sodium (mg)": 980, "calcium (mg)": 190},
+    {"foodName": "开心乐园餐-吉士汉堡", "energy (kcal)": 380, "protein (g)": 16, "fat (g)": 15, "carbohydrate (g)": 45, "sugar (g)": 14, "sodium (mg)": 780, "calcium (mg)": 220},
+    {"foodName": "麦乐鸡(5块)", "energy (kcal)": 220, "protein (g)": 12, "fat (g)": 14, "carbohydrate (g)": 13, "sugar (g)": 1, "sodium (mg)": 500, "calcium (mg)": 20},
+    {"foodName": "麦乐鸡(10块)", "energy (kcal)": 440, "protein (g)": 24, "fat (g)": 28, "carbohydrate (g)": 26, "sugar (g)": 2, "sodium (mg)": 1000, "calcium (mg)": 40},
+    {"foodName": "麻辣鸡翅(2块)", "energy (kcal)": 200, "protein (g)": 13, "fat (g)": 13, "carbohydrate (g)": 8, "sugar (g)": 2, "sodium (mg)": 600, "calcium (mg)": 15},
+    {"foodName": "薯条(中)", "energy (kcal)": 337, "protein (g)": 4, "fat (g)": 16, "carbohydrate (g)": 45, "sugar (g)": 0, "sodium (mg)": 260, "calcium (mg)": 10},
+    {"foodName": "薯条(大)", "energy (kcal)": 450, "protein (g)": 5, "fat (g)": 21, "carbohydrate (g)": 60, "sugar (g)": 0, "sodium (mg)": 350, "calcium (mg)": 15},
+    {"foodName": "玉米杯", "energy (kcal)": 70, "protein (g)": 2, "fat (g)": 1, "carbohydrate (g)": 15, "sugar (g)": 6, "sodium (mg)": 10, "calcium (mg)": 8},
+    {"foodName": "苹果片", "energy (kcal)": 35, "protein (g)": 0, "fat (g)": 0, "carbohydrate (g)": 9, "sugar (g)": 7, "sodium (mg)": 0, "calcium (mg)": 5},
+    {"foodName": "田园沙拉", "energy (kcal)": 60, "protein (g)": 3, "fat (g)": 3, "carbohydrate (g)": 6, "sugar (g)": 3, "sodium (mg)": 120, "calcium (mg)": 60},
+    {"foodName": "麦旋风(奥利奥)", "energy (kcal)": 330, "protein (g)": 6, "fat (g)": 11, "carbohydrate (g)": 50, "sugar (g)": 35, "sodium (mg)": 150, "calcium (mg)": 180},
+    {"foodName": "圆筒冰淇淋", "energy (kcal)": 150, "protein (g)": 4, "fat (g)": 4, "carbohydrate (g)": 25, "sugar (g)": 19, "sodium (mg)": 60, "calcium (mg)": 130},
+    {"foodName": "香芋派", "energy (kcal)": 250, "protein (g)": 3, "fat (g)": 13, "carbohydrate (g)": 32, "sugar (g)": 13, "sodium (mg)": 240, "calcium (mg)": 20},
+    {"foodName": "菠萝派", "energy (kcal)": 240, "protein (g)": 3, "fat (g)": 12, "carbohydrate (g)": 31, "sugar (g)": 14, "sodium (mg)": 230, "calcium (mg)": 20},
+    {"foodName": "可乐(中)", "energy (kcal)": 210, "protein (g)": 0, "fat (g)": 0, "carbohydrate (g)": 53, "sugar (g)": 53, "sodium (mg)": 15, "calcium (mg)": 0},
+    {"foodName": "零度可乐(中)", "energy (kcal)": 2, "protein (g)": 0, "fat (g)": 0, "carbohydrate (g)": 0, "sugar (g)": 0, "sodium (mg)": 25, "calcium (mg)": 0},
+    {"foodName": "雪碧(中)", "energy (kcal)": 200, "protein (g)": 0, "fat (g)": 0, "carbohydrate (g)": 51, "sugar (g)": 51, "sodium (mg)": 20, "calcium (mg)": 0},
+    {"foodName": "鲜萃咖啡(中)", "energy (kcal)": 10, "protein (g)": 0, "fat (g)": 0, "carbohydrate (g)": 2, "sugar (g)": 0, "sodium (mg)": 10, "calcium (mg)": 20},
+    {"foodName": "美式咖啡(中)", "energy (kcal)": 15, "protein (g)": 0, "fat (g)": 0, "carbohydrate (g)": 2, "sugar (g)": 0, "sodium (mg)": 15, "calcium (mg)": 20},
+    {"foodName": "拿铁(中)", "energy (kcal)": 120, "protein (g)": 7, "fat (g)": 6, "carbohydrate (g)": 10, "sugar (g)": 9, "sodium (mg)": 90, "calcium (mg)": 220},
+    {"foodName": "纯牛奶", "energy (kcal)": 130, "protein (g)": 8, "fat (g)": 7, "carbohydrate (g)": 11, "sugar (g)": 11, "sodium (mg)": 100, "calcium (mg)": 280},
+    {"foodName": "热豆浆", "energy (kcal)": 120, "protein (g)": 9, "fat (g)": 4, "carbohydrate (g)": 10, "sugar (g)": 6, "sodium (mg)": 80, "calcium (mg)": 60},
+    {"foodName": "南瓜粥", "energy (kcal)": 110, "protein (g)": 2, "fat (g)": 0, "carbohydrate (g)": 25, "sugar (g)": 12, "sodium (mg)": 180, "calcium (mg)": 30}
+  ]
+}

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1218" viewBox="0 0 760 1218" font-family="Consolas,monospace">
+<rect width="760" height="1218" fill="#0d1117"/>
+<rect width="760" height="34" fill="#161b22"/>
+<circle cx="18" cy="17" r="5" fill="#ff5f57"/>
+<circle cx="36" cy="17" r="5" fill="#febc2e"/>
+<circle cx="54" cy="17" r="5" fill="#28c840"/>
+<text x="76" y="21" font-size="12" fill="#8b949e">python -m src.cli screen --profile child --top 3</text>
+<text x="744" y="21" font-size="12" fill="#8b949e" text-anchor="end">麦当劳 MCP 实时数据 · 2026-10-25</text>
+<text x="18" y="49" font-size="14" fill="#8b949e" xml:space="preserve">【儿童（3-12&#160;岁）&#160;·&#160;安心点安全筛查】</text>
+<text x="18" y="71" font-size="14" fill="#c9d1d9" xml:space="preserve">画像说明：控钠、控糖、避免整颗坚果与辛辣，优先小份与含钙饮品</text>
+<text x="18" y="93" font-size="14" fill="#c9d1d9" xml:space="preserve">判定阈值：热量≤550&#160;kcal，钠≤900&#160;mg，糖≤30&#160;g，蛋白≥12&#160;g</text>
+<text x="18" y="115" font-size="14" fill="#c9d1d9" xml:space="preserve">共筛查&#160;160&#160;款：✅&#160;可以点&#160;33　⚠️&#160;注意着点&#160;111　🚫&#160;先别点&#160;16</text>
+<text x="18" y="137" font-size="14" fill="#c9d1d9" xml:space="preserve">（其中&#160;160&#160;项营养字段服务端未返回，已标注为缺失而非&#160;0）</text>
+<text x="18" y="159" font-size="14" fill="#c9d1d9" xml:space="preserve">⚠&#160;以下维度在实时返回中普遍缺失，已不再逐条重复：糖（160/160&#160;款均无该字段）</text>
+<text x="18" y="181" font-size="14" fill="#8b949e" xml:space="preserve">数据来源：麦当劳&#160;MCP&#160;list-nutrition-foods&#160;实时返回（160&#160;款）</text>
+<text x="18" y="203" font-size="14" fill="#c9d1d9" xml:space="preserve"></text>
+<text x="18" y="225" font-size="14" fill="#3fb950" xml:space="preserve">✅&#160;可以点（显示前&#160;6）</text>
+<text x="18" y="247" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;牛气满满｜可以点｜496&#160;kcal·蛋白&#160;26.0&#160;g·脂肪&#160;24.0&#160;g·钠&#160;764&#160;mg</text>
+<text x="18" y="269" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;专“薯鱼”你｜可以点｜463&#160;kcal·蛋白&#160;18.0&#160;g·脂肪&#160;17.0&#160;g·钠&#160;652&#160;mg</text>
+<text x="18" y="291" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;猪柳炒双蛋堡｜可以点｜437&#160;kcal·蛋白&#160;25.0&#160;g·脂肪&#160;24.0&#160;g·钠&#160;705&#160;mg</text>
+<text x="18" y="313" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;原味板烧鸡腿炒双蛋堡｜可以点｜419&#160;kcal·蛋白&#160;27.0&#160;g·脂肪&#160;21.0&#160;g·钠&#160;715&#160;mg</text>
+<text x="18" y="335" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;鸡肉蛋沙拉叠叠卷｜可以点｜387&#160;kcal·蛋白&#160;17.0&#160;g·脂肪&#160;21.0&#160;g·钠&#160;842&#160;mg</text>
+<text x="18" y="357" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;猪柳蛋麦满分｜可以点｜387&#160;kcal·蛋白&#160;23.0&#160;g·脂肪&#160;21.0&#160;g·钠&#160;846&#160;mg</text>
+<text x="18" y="379" font-size="14" fill="#c9d1d9" xml:space="preserve"></text>
+<text x="18" y="401" font-size="14" fill="#d29922" xml:space="preserve">⚠️&#160;注意着点（显示前&#160;6）</text>
+<text x="18" y="423" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;冰浓浓抹茶牛奶大杯｜注意着点｜240&#160;kcal·蛋白&#160;9.0&#160;g·脂肪&#160;7.0&#160;g·钠&#160;89&#160;mg</text>
+<text x="18" y="445" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;蛋白质&#160;9.0&#160;g，低于画像建议&#160;12.0&#160;g</text>
+<text x="18" y="467" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中推荐词：牛奶</text>
+<text x="18" y="489" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;热浓浓抹茶牛奶中杯｜注意着点｜238&#160;kcal·蛋白&#160;11.0&#160;g·脂肪&#160;8.0&#160;g·钠&#160;104&#160;mg</text>
+<text x="18" y="511" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;蛋白质&#160;11.0&#160;g，低于画像建议&#160;12.0&#160;g</text>
+<text x="18" y="533" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中推荐词：牛奶</text>
+<text x="18" y="555" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;冰浓浓抹茶牛奶中杯｜注意着点｜196&#160;kcal·蛋白&#160;8.0&#160;g·脂肪&#160;6.0&#160;g·钠&#160;80&#160;mg</text>
+<text x="18" y="577" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;蛋白质&#160;8.0&#160;g，低于画像建议&#160;12.0&#160;g</text>
+<text x="18" y="599" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中推荐词：牛奶</text>
+<text x="18" y="621" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;热牛奶中杯｜注意着点｜176&#160;kcal·蛋白&#160;10.0&#160;g·脂肪&#160;8.0&#160;g·钠&#160;101&#160;mg</text>
+<text x="18" y="643" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;蛋白质&#160;10.0&#160;g，低于画像建议&#160;12.0&#160;g</text>
+<text x="18" y="665" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中推荐词：牛奶</text>
+<text x="18" y="687" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;热牛奶小杯｜注意着点｜148&#160;kcal·蛋白&#160;8.0&#160;g·脂肪&#160;7.0&#160;g·钠&#160;84&#160;mg</text>
+<text x="18" y="709" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;蛋白质&#160;8.0&#160;g，低于画像建议&#160;12.0&#160;g</text>
+<text x="18" y="731" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中推荐词：牛奶</text>
+<text x="18" y="753" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;冰牛奶小杯｜注意着点｜148&#160;kcal·蛋白&#160;8.0&#160;g·脂肪&#160;7.0&#160;g·钠&#160;84&#160;mg</text>
+<text x="18" y="775" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;蛋白质&#160;8.0&#160;g，低于画像建议&#160;12.0&#160;g</text>
+<text x="18" y="797" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中推荐词：牛奶</text>
+<text x="18" y="819" font-size="14" fill="#c9d1d9" xml:space="preserve"></text>
+<text x="18" y="841" font-size="14" fill="#f85149" xml:space="preserve">🚫&#160;先别点（显示前&#160;6）</text>
+<text x="18" y="863" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;芝士安格斯厚牛堡｜先别点｜696&#160;kcal·蛋白&#160;32.0&#160;g·脂肪&#160;44.0&#160;g·钠&#160;897&#160;mg</text>
+<text x="18" y="885" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;热量&#160;696.5kcal，超出画像上限&#160;550.0kcal（+27%），明显超标</text>
+<text x="18" y="907" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;绝代双翅｜先别点｜469&#160;kcal·蛋白&#160;32.0&#160;g·脂肪&#160;27.0&#160;g·钠&#160;1167&#160;mg</text>
+<text x="18" y="929" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;钠&#160;1167.0mg，超出画像上限&#160;900.0mg（+30%），明显超标</text>
+<text x="18" y="951" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;培根蔬萃双层牛堡｜先别点｜442&#160;kcal·蛋白&#160;24.0&#160;g·脂肪&#160;23.0&#160;g·钠&#160;728&#160;mg</text>
+<text x="18" y="973" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中画像规避词：双层</text>
+<text x="18" y="995" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;果然多肉｜先别点｜478&#160;kcal·蛋白&#160;36.0&#160;g·脂肪&#160;17.0&#160;g·钠&#160;1343&#160;mg</text>
+<text x="18" y="1017" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;钠&#160;1343.0mg，超出画像上限&#160;900.0mg（+49%），明显超标</text>
+<text x="18" y="1039" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;培根安格斯厚牛堡｜先别点｜707&#160;kcal·蛋白&#160;34.0&#160;g·脂肪&#160;44.0&#160;g·钠&#160;1037&#160;mg</text>
+<text x="18" y="1061" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;热量&#160;707.2kcal，超出画像上限&#160;550.0kcal（+29%），明显超标</text>
+<text x="18" y="1083" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;钠&#160;1037.0mg，超出画像上限&#160;900.0mg（+15%）</text>
+<text x="18" y="1105" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;·&#160;双层深海鳕鱼堡｜先别点｜485&#160;kcal·蛋白&#160;28.0&#160;g·脂肪&#160;21.0&#160;g·钠&#160;917&#160;mg</text>
+<text x="18" y="1127" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;命中画像规避词：双层</text>
+<text x="18" y="1149" font-size="14" fill="#c9d1d9" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;-&#160;钠&#160;917.0mg，超出画像上限&#160;900.0mg（+2%）</text>
+<text x="18" y="1171" font-size="14" fill="#c9d1d9" xml:space="preserve"></text>
+<text x="18" y="1193" font-size="14" fill="#d29922" xml:space="preserve">提示：过敏原判定基于餐品名称关键词推断，请以麦当劳官方配料说明为准。</text>
+</svg>
