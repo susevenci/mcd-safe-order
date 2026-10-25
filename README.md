@@ -1,5 +1,7 @@
 # 🍔 mcd-safe-order · 麦麦安心点
 
+> 🌐 **在线展示页**：https://susevenci.github.io/mcd-safe-order/（GitHub Pages，含真实运行截图；仓库地址见文末）
+
 > ⭐ **觉得有用就点个 Star** —— 本项目正在参加麦当劳程序员创意开发大赛，排名唯一依据就是 Star 数。**零依赖、可离线运行，无需 Token 也能验证。**
 
 
